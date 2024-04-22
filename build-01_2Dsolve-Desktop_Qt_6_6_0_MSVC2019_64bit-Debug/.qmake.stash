@@ -1,0 +1,21 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1937
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193732824
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    F:\\VS\\2022\\VC\\Tools\\MSVC\\14.37.32822\\include \
+    F:\\VS\\2022\\VC\\Tools\\MSVC\\14.37.32822\\ATLMFC\\include \
+    F:\\VS\\2022\\VC\\Auxiliary\\VS\\include \
+    "F:\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt" \
+    "F:\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\um" \
+    "F:\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\shared" \
+    "F:\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\winrt" \
+    "F:\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    F:\\VS\\2022\\VC\\Tools\\MSVC\\14.37.32822\\ATLMFC\\lib\\x64 \
+    F:\\VS\\2022\\VC\\Tools\\MSVC\\14.37.32822\\lib\\x64 \
+    "F:\\Windows Kits\\10\\lib\\10.0.22621.0\\ucrt\\x64" \
+    "F:\\Windows Kits\\10\\\\lib\\10.0.22621.0\\\\um\\x64"
